@@ -1,0 +1,22 @@
+{
+  "wheel_id": 444,
+  "structure": "umbrella",
+  "slug": "retainingwallsbrisbane-net-101",
+  "project": "retaining-walls-brisbane-warranty-4399f3030cf27625183c5960d4ffa",
+  "parent_t1_ref": "retainingwallsbrisbane-net-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallsbrisbane.net.au",
+  "primary_kw": "retaining walls brisbane warranty",
+  "intended_url": "http://retaining-walls-brisbane-warranty-4399f3030cf27625183c5960d4ffa.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "7a3f7e6f5c67bcde",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-walls-brisbane-diy-vs-professional-73cb75abbfe7f34/",
+      "anchor": "retaining walls brisbane diy vs professional",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
